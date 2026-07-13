@@ -39,3 +39,11 @@ Passionate about building scalable web applications, conducting AI-driven resear
 
 > *Code • Research • Analyze • Inspire* 🚀
 
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronakduggar&show_icons=true&theme=github_dark" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakduggar&layout=compact&theme=github_dark" height="170">
+</p> -->
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=ronakduggar&theme=github-dark-blue" />
+</p> -->
