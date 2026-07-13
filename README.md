@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**ronakduggar/ronakduggar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="banner.png" alt="Ronak Duggar Banner" width="100%">
+</p>
 
-Here are some ideas to get you started:
+# Hi, I'm Ronak Duggar 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Trainer | Full Stack Developer | AI & ML Researcher | Technical Analyst
+
+Passionate about building scalable web applications, conducting AI-driven research, and mentoring aspiring developers. I enjoy transforming innovative ideas into impactful solutions through technology, research, and continuous learning.
+
+## 🚀 Tech Stack
+
+**Frontend:** HTML • CSS • JavaScript • React • Next.js • Bootstrap
+
+**Backend:** Node.js • Express.js • REST APIs
+
+**Database:** MongoDB • MySQL
+
+**Languages:** Java • Python • C
+
+**Tools:** Git • GitHub • VS Code • Postman • Docker • Linux
+
+## 🌱 Currently Exploring
+
+- Agentic AI
+- Generative AI & LLMs
+- Advanced MERN Stack
+- Cloud Computing
+- System Design
+
+## 📫 Connect with Me
+
+- 🌐 Portfolio: **www.ronakduggar.com**
+- 💼 LinkedIn: **[linkedin.com/in/ronakduggar](https://www.linkedin.com/in/ronakduggar/)**
+- 📧 Email: **ronakduggar202@gmail.com**
+
+---
+
+> *Code • Research • Analyze • Inspire* 🚀
+
